@@ -20,7 +20,6 @@ I have many other interests! But I will let you discover some of them in the pro
    - <img src="https://img.shields.io/badge/-Jest-blue?style=flat&logo=Jest&logoColor=white">
 
 ### ⚡ Tech & tools skills:
-   <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white">
    <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
    <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
    <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
@@ -31,6 +30,7 @@ I have many other interests! But I will let you discover some of them in the pro
    <img src="https://img.shields.io/badge/-ESlint-purple?style=flat&logo=Eslint&logoColor=white">
    <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=white">
    <img src="https://img.shields.io/badge/-Trello-007ACC?style=flat&logo=Trello&logoColor=white">
+   <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white">
    
 ### 💬 Languages:
    - Spanish
